@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0fabcf-738d-49f5-87d8-5b5321bb3bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algebra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +50,16 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Algebra">
+  <component name="RunManager" selected="Application.SwitchCase">
     <configuration name="Algebra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Algebra" />
+      <module name="JavaQA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConditionalOperators" />
       <module name="JavaQA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,8 +72,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchCase" />
+      <module name="JavaQA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwitchCase" />
+        <item itemvalue="Application.ConditionalOperators" />
         <item itemvalue="Application.Algebra" />
         <item itemvalue="Application.DataTypes" />
       </list>
@@ -102,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669904980857</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Algebra examples">
+      <created>1669907594758</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669907594758</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +155,7 @@
     <MESSAGE value="New project, created Start.java with Hello World!" />
     <MESSAGE value="Data types with examples and memory usage." />
     <MESSAGE value="Renamed Start into DataTypes and created new Variables.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed Start into DataTypes and created new Variables.java" />
+    <MESSAGE value="Algebra examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algebra examples" />
   </component>
 </project>
