@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0fabcf-738d-49f5-87d8-5b5321bb3bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Algebra.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,14 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Algebra">
+    <configuration name="Algebra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Algebra" />
+      <module name="JavaQA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataTypes" />
       <module name="JavaQA" />
@@ -61,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Algebra" />
         <item itemvalue="Application.DataTypes" />
       </list>
     </recent_temporary>
@@ -88,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669903635851</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Renamed Start into DataTypes and created new Variables.java">
+      <created>1669904980857</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669904980857</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +131,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New project, created Start.java with Hello World!" />
     <MESSAGE value="Data types with examples and memory usage." />
-    <option name="LAST_COMMIT_MESSAGE" value="Data types with examples and memory usage." />
+    <MESSAGE value="Renamed Start into DataTypes and created new Variables.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed Start into DataTypes and created new Variables.java" />
   </component>
 </project>
