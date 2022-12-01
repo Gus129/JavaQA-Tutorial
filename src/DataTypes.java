@@ -1,4 +1,4 @@
-public class Start {
+public class DataTypes {
     public static void main(String[] args) {
         System.out.println("Hello Plebs!!!");
         byte num = 100; // 8 бит информации на эту переменную нум  -128 +127
