@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0fabcf-738d-49f5-87d8-5b5321bb3bfe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algebra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Courses/Algebra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Courses/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Classes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Courses/Classes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConditionalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Courses/ConditionalOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/Cow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Courses/DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Courses/Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Courses/Loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Massive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Courses/Massive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RandomNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Courses/RandomNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Courses/Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Courses/SwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Courses/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Courses/Classes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Courses/Classes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Other/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/Computer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +49,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Inheritance">
+  <component name="RunManager" selected="Application.Classes">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Courses.BubbleSort" />
       <module name="JavaQA" />
@@ -71,15 +57,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Courses.Inheritance" />
+    <configuration name="Classes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Courses.Classes" />
       <module name="JavaQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Courses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Massive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Courses.Massive" />
+    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Courses.Inheritance" />
       <module name="JavaQA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Classes" />
         <item itemvalue="Application.Inheritance" />
         <item itemvalue="Application.Start" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.RandomNumbers" />
-        <item itemvalue="Application.Massive" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670325419591</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Created packages and moved old files">
+      <created>1670326527359</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670326527359</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,6 +221,7 @@
     <MESSAGE value="Added Loops, Massive, BubbleSort, RandomNumbers" />
     <MESSAGE value="Added Classe and Computer method, also minor changes in Start (actually nothing), and BubbleSort (formatting)" />
     <MESSAGE value="Added Inheritance expamples, also classes Animal and Cow" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Inheritance expamples, also classes Animal and Cow" />
+    <MESSAGE value="Created packages and moved old files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created packages and moved old files" />
   </component>
 </project>
