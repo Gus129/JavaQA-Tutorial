@@ -7,10 +7,11 @@ public class BubbleSort {
         int temp;
         boolean sorted = false;
         System.out.println(""); // просто перенос на другую стору в терминале вывода для удобства
-        while (!sorted) {
-            sorted = true; //когда sorted становится true , цикл прекращает работу
 
-        for (int i = 0; i< nums.length-1; i++){
+        //когда sorted становится true , цикл прекращает работу
+        while (!sorted) {
+            sorted = true;
+            for (int i = 0; i< nums.length-1; i++){
             if (nums[i] > nums[i+1]){
                 temp = nums[i];
                 nums[i] = nums[i+1];
