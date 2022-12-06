@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0fabcf-738d-49f5-87d8-5b5321bb3bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Massive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RandomNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,23 +52,30 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Scanner">
-    <configuration name="Algebra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algebra" />
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="JavaQA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConditionalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalOperators" />
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops" />
       <module name="JavaQA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypes" />
+    <configuration name="Massive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Massive" />
+      <module name="JavaQA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomNumbers" />
       <module name="JavaQA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,20 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchCase" />
-      <module name="JavaQA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.RandomNumbers" />
+        <item itemvalue="Application.Massive" />
+        <item itemvalue="Application.Loops" />
         <item itemvalue="Application.Scanner" />
-        <item itemvalue="Application.SwitchCase" />
-        <item itemvalue="Application.ConditionalOperators" />
-        <item itemvalue="Application.Algebra" />
-        <item itemvalue="Application.DataTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669908900677</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Scanner">
+      <created>1669916278196</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669916278196</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +181,7 @@
     <MESSAGE value="Renamed Start into DataTypes and created new Variables.java" />
     <MESSAGE value="Algebra examples" />
     <MESSAGE value="ConditionalOperators + Switch (otdelno)" />
-    <option name="LAST_COMMIT_MESSAGE" value="ConditionalOperators + Switch (otdelno)" />
+    <MESSAGE value="Added Scanner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Scanner" />
   </component>
 </project>
