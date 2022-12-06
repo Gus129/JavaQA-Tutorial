@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0fabcf-738d-49f5-87d8-5b5321bb3bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Classes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Start">
+  <component name="RunManager" selected="Application.Inheritance">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BubbleSort" />
       <module name="JavaQA" />
@@ -60,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops" />
+    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance" />
       <module name="JavaQA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inheritance" />
         <item itemvalue="Application.Start" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.RandomNumbers" />
         <item itemvalue="Application.Massive" />
-        <item itemvalue="Application.Loops" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670321716209</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added Classe and Computer method, also minor changes in Start (actually nothing), and BubbleSort (formatting)">
+      <created>1670324105034</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670324105034</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +171,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -190,6 +201,7 @@
     <MESSAGE value="ConditionalOperators + Switch (otdelno)" />
     <MESSAGE value="Added Scanner" />
     <MESSAGE value="Added Loops, Massive, BubbleSort, RandomNumbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Loops, Massive, BubbleSort, RandomNumbers" />
+    <MESSAGE value="Added Classe and Computer method, also minor changes in Start (actually nothing), and BubbleSort (formatting)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Classe and Computer method, also minor changes in Start (actually nothing), and BubbleSort (formatting)" />
   </component>
 </project>
