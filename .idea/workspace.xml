@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0fabcf-738d-49f5-87d8-5b5321bb3bfe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Courses/Classes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Courses/Classes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Courses/Interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/Boy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/Girl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/Study.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -62,7 +69,7 @@
       <module name="JavaQA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Courses.*" />
+          <option name="PATTERN" value="Other.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670326527359</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Fixed import errors in Classes and Computer">
+      <created>1670326852869</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670326852869</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,6 +236,7 @@
     <MESSAGE value="Added Classe and Computer method, also minor changes in Start (actually nothing), and BubbleSort (formatting)" />
     <MESSAGE value="Added Inheritance expamples, also classes Animal and Cow" />
     <MESSAGE value="Created packages and moved old files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created packages and moved old files" />
+    <MESSAGE value="Fixed import errors in Classes and Computer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed import errors in Classes and Computer" />
   </component>
 </project>
