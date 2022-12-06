@@ -1,3 +1,5 @@
+package Other;
+
 public class Computer {
     private int memory; // скрываем переменную из методов извне
     private int cpu;

@@ -1,3 +1,5 @@
+package Courses;
+
 public class Massive {
     public static void main(String[] args) {
         //int[] nums = {1, 1, 1, 1}; // [] - объявление массива

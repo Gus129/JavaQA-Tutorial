@@ -1,4 +1,6 @@
-public class Cow extends Animal{
+package Other;
+
+public class Cow extends Animal {
     // наследование параметров у другого класса
 
     public Cow(String say, int teeth) {
@@ -11,7 +13,7 @@ public class Cow extends Animal{
         return say + " New!";
     }
 
-    void moo (){
+    public void moo (){
         System.out.println(getSay()+ " во все " + getTeeth() + " зуба ");
     }
 }

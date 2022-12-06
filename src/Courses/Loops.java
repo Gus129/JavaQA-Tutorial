@@ -1,3 +1,5 @@
+package Courses;
+
 import java.io.IOException;
 
 public class Loops {

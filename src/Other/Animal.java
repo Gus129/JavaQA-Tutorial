@@ -1,3 +1,5 @@
+package Other;
+
 public class Animal {
     private String say = ".....";
     private int teeth = 0;

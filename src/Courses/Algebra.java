@@ -1,3 +1,5 @@
+package Courses;
+
 public class Algebra {
     public static void main(String[] args) {
         int n1 = 3;

@@ -1,3 +1,5 @@
+package Courses;
+
 public class DataTypes {
 
     protected byte num = 100; // 8 бит информации на эту переменную нум  -128 +127

@@ -1,3 +1,5 @@
+package Courses;
+
 public class Classes {
     public static void main(String[] args) {
         Computer apple = new Computer(100, 1500, "KekBook"); // объявление (пустого) и использование класса как тип данных
