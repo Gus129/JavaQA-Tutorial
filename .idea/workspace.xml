@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0fabcf-738d-49f5-87d8-5b5321bb3bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Other/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/Goose.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Start.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Classes">
+  <component name="RunManager" selected="Application.Start">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Courses.BubbleSort" />
       <module name="JavaQA" />
@@ -95,9 +95,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Start" />
         <item itemvalue="Application.Classes" />
         <item itemvalue="Application.Inheritance" />
-        <item itemvalue="Application.Start" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.RandomNumbers" />
       </list>
@@ -196,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670328548887</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add Human and Person class for example of abstract classes tut. video">
+      <created>1670412883668</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670412883668</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +247,7 @@
     <MESSAGE value="Created packages and moved old files" />
     <MESSAGE value="Fixed import errors in Classes and Computer" />
     <MESSAGE value="Interface course with all interfaces and new classes for examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface course with all interfaces and new classes for examples" />
+    <MESSAGE value="Add Human and Person class for example of abstract classes tut. video" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Human and Person class for example of abstract classes tut. video" />
   </component>
 </project>
