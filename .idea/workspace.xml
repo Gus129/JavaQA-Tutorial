@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d0fabcf-738d-49f5-87d8-5b5321bb3bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Courses/Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Courses/CustomExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,10 +52,16 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exceptions">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Courses.BubbleSort" />
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Other.App" />
       <module name="JavaQA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -100,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.Exceptions" />
         <item itemvalue="Application.Start" />
         <item itemvalue="Application.Classes" />
         <item itemvalue="Application.Inheritance" />
-        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670413446517</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Add Exception tutorial">
+      <created>1670834395866</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670834395866</updated>
+    </task>
+    <task id="LOCAL-00016" summary="workspace.xml updated">
+      <created>1670834419262</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1670834419262</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +283,8 @@
     <MESSAGE value="Interface course with all interfaces and new classes for examples" />
     <MESSAGE value="Add Human and Person class for example of abstract classes tut. video" />
     <MESSAGE value="Add Goose and Start change - inner classes tutorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Goose and Start change - inner classes tutorial" />
+    <MESSAGE value="Add Exception tutorial" />
+    <MESSAGE value="workspace.xml updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml updated" />
   </component>
 </project>
